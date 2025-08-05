@@ -1,5 +1,4 @@
-[
-  {
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -7,15 +6,4 @@
     "sha256_cert_fingerprints":
     ["47:C9:45:1F:A6:15:E8:5E:A8:E4:86:19:2C:11:A2:7C:64:F4:1B:91:A4:CD:38:D7:E5:82:41:19:E9:55:47:FD"]
   }
-},
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "lv.chi.bezvests.staging",
-      "sha256_cert_fingerprints": [
-        "EE:AF:39:51:B1:F7:3F:0B:E3:23:64:6D:BC:8C:E5:ED:11:46:4E:AE:C4:F0:2B:E8:FA:03:6D:5C:91:ED:80:3E"
-      ]
-    }
-  }
-]
+}]
