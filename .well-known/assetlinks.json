@@ -46,5 +46,14 @@
         "1D:56:20:52:0F:1B:13:43:73:DA:0E:E7:9E:7A:1D:FE:6A:16:1D:E8:17:AF:0E:90:DD:EB:59:98:98:A9:80:CF"
       ]
     }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.paybis.widget_example",
+    "sha256_cert_fingerprints":
+    ["EE:AF:39:51:B1:F7:3F:0B:E3:23:64:6D:BC:8C:E5:ED:11:46:4E:AE:C4:F0:2B:E8:FA:03:6D:5C:91:ED:80:3E"]
   }
+}
 ]
