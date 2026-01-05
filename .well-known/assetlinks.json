@@ -34,5 +34,17 @@
     "sha256_cert_fingerprints":
     ["4D:78:84:33:5D:E9:B3:A5:51:0D:1C:78:6D:C4:6F:B8:3B:76:E2:F0:AA:55:33:46:63:9B:49:97:4E:77:69:25"]
   }
-}
+},
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.paybis",
+      "sha256_cert_fingerprints": [
+        "1D:56:20:52:0F:1B:13:43:73:DA:0E:E7:9E:7A:1D:FE:6A:16:1D:E8:17:AF:0E:90:DD:EB:59:98:98:A9:80:CF"
+      ]
+    }
+  }
 ]
