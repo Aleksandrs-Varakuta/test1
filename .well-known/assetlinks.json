@@ -2,27 +2,12 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.paybis.widget_example",
-    "sha256_cert_fingerprints":
-    ["EE:AF:39:51:B1:F7:3F:0B:E3:23:64:6D:BC:8C:E5:ED:11:46:4E:AE:C4:F0:2B:E8:FA:03:6D:5C:91:ED:80:3E"]
-  }
-},
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
     "package_name": "com.paybis.androidsatellitewidget.dev",
     "sha256_cert_fingerprints":
-    ["51:3D:0A:F3:66:D3:09:1C:1C:4A:CF:5E:5A:91:17:1D:E6:39:86:89:D8:48:86:D5:33:78:3A:61:64:30:1B:49"]
-  }
-},
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.paybis.androidsatellitewidget.dev",
-    "sha256_cert_fingerprints":
-    ["4D:78:84:33:5D:E9:B3:A5:51:0D:1C:78:6D:C4:6F:B8:3B:76:E2:F0:AA:55:33:46:63:9B:49:97:4E:77:69:25"]
+    ["EE:AF:39:51:B1:F7:3F:0B:E3:23:64:6D:BC:8C:E5:ED:11:46:4E:AE:C4:F0:2B:E8:FA:03:6D:5C:91:ED:80:3E",
+    "51:3D:0A:F3:66:D3:09:1C:1C:4A:CF:5E:5A:91:17:1D:E6:39:86:89:D8:48:86:D5:33:78:3A:61:64:30:1B:49",
+    "3d:d2:4f:b4:79:75:b9:dd:3b:41:42:1e:50:47:18:37:8c:90:c3:2e:71:ac:3e:62:60:01:82:9c:d5:cc:0b:9b",
+    "4D:78:84:33:5D:E9:B3:A5:51:0D:1C:78:6D:C4:6F:B8:3B:76:E2:F0:AA:55:33:46:63:9B:49:97:4E:77:69:25"]
   }
 },
   {
@@ -32,28 +17,9 @@
     "package_name": "com.paybis.androidsatellitewidget",
     "sha256_cert_fingerprints":
     ["51:3D:0A:F3:66:D3:09:1C:1C:4A:CF:5E:5A:91:17:1D:E6:39:86:89:D8:48:86:D5:33:78:3A:61:64:30:1B:49",
-        "57:FA:DF:85:28:C6:C5:47:B0:65:45:AF:04:4B:8C:7C:E8:D1:14:84:A6:2D:E4:8B:60:E6:00:62:1E:1B:92:A2"]
+    "3d:d2:4f:b4:79:75:b9:dd:3b:41:42:1e:50:47:18:37:8c:90:c3:2e:71:ac:3e:62:60:01:82:9c:d5:cc:0b:9b",
+    "4D:78:84:33:5D:E9:B3:A5:51:0D:1C:78:6D:C4:6F:B8:3B:76:E2:F0:AA:55:33:46:63:9B:49:97:4E:77:69:25",
+    "57:FA:DF:85:28:C6:C5:47:B0:65:45:AF:04:4B:8C:7C:E8:D1:14:84:A6:2D:E4:8B:60:E6:00:62:1E:1B:92:A2"]
   }
-},
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.paybis.androidsatellitewidget",
-    "sha256_cert_fingerprints":
-    ["4D:78:84:33:5D:E9:B3:A5:51:0D:1C:78:6D:C4:6F:B8:3B:76:E2:F0:AA:55:33:46:63:9B:49:97:4E:77:69:25"]
-  }
-},
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.paybis",
-      "sha256_cert_fingerprints": [
-        "1D:56:20:52:0F:1B:13:43:73:DA:0E:E7:9E:7A:1D:FE:6A:16:1D:E8:17:AF:0E:90:DD:EB:59:98:98:A9:80:CF"
-      ]
-    }
-  }
+}
 ]
