@@ -31,7 +31,8 @@
     "namespace": "android_app",
     "package_name": "com.paybis.androidsatellitewidget",
     "sha256_cert_fingerprints":
-    ["51:3D:0A:F3:66:D3:09:1C:1C:4A:CF:5E:5A:91:17:1D:E6:39:86:89:D8:48:86:D5:33:78:3A:61:64:30:1B:49"]
+    ["51:3D:0A:F3:66:D3:09:1C:1C:4A:CF:5E:5A:91:17:1D:E6:39:86:89:D8:48:86:D5:33:78:3A:61:64:30:1B:49",
+        "57:FA:DF:85:28:C6:C5:47:B0:65:45:AF:04:4B:8C:7C:E8:D1:14:84:A6:2D:E4:8B:60:E6:00:62:1E:1B:92:A2"]
   }
 },
   {
